@@ -1,0 +1,25 @@
+body{ background-color: black;}
+
+.card{ background: url(../assets/cartao.png) no-repeat;  
+   box-sizing: border-box;
+   width: 400px;
+   height: 200px;
+   background-size: cover; 
+   padding:1px 20px;
+   margin: auto;
+   margin-top: 10%; }
+
+
+
+.instagram{ color: black ; list-style-image:url(../assets/Insta.png)  }
+
+.tw{ color:black ;  list-style-image: url(../assets/Twitter.png);}
+
+.youtube{ color: black ; list-style-image: url(../assets/Youtube.png);}
+
+
+
+
+
+
+a{ text-decoration: none; color: black; }
