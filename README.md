@@ -1,2 +1,2 @@
-# card
-Cartão de visitas 
+# Card
+Cartão de visitas com contatos.
